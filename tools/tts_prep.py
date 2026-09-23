@@ -35,7 +35,7 @@ FIXED_PHRASES = ["붉은 실", "푸른 실", "나비 매듭", "굵은 매듭", "
 # 규칙 4. 본용언 + 보조용언 (-아/-어 + 내다/주다/드리다/보다/버리다/놓다/두다)
 AUX_PREFIX = ("내", "낸", "냈", "주", "준", "줬", "드리", "드린", "드렸", "보", "본", "봤", "버리", "버린", "버렸", "놓", "두", "둔")
 AUX_BLOCK_NEXT = ("준이", "보자기", "보따리", "보름", "주먹", "주머니", "주변", "주인", "두루", "두 ", "내일", "내내", "내려", "주름", "보릿")
-AUX_BLOCK_PREV = {"나", "너", "저", "다", "또", "더", "자", "아", "거", "그", "이", "어", "가", "왜", "뭐", "꼭", "좀", "잘"}
+AUX_BLOCK_PREV = {"절대", "나", "너", "저", "다", "또", "더", "자", "아", "거", "그", "이", "어", "가", "왜", "뭐", "꼭", "좀", "잘"}
 
 # 받침 없는 ㅏ/ㅓ/ㅕ/ㅐ/ㅘ/ㅝ/ㅙ/ㅚ(되어→돼) 모음으로 끝나거나 '-어/-아'로 끝나는 말
 AUX_END_VOWELS = {0, 4, 6, 1, 9, 14, 10}  # ㅏ ㅓ ㅕ ㅐ ㅘ ㅝ ㅙ
@@ -57,24 +57,22 @@ def ends_with_a_eo(word: str) -> bool:
     return jong == 0 and jung in AUX_END_VOWELS
 
 
-RE_AUX = re.compile(r"([가-힣]+) ([가-힣]+)")
+RE_AUX_PAIR = re.compile(r"(?<![가-힣])([가-힣]+) (?=([가-힣]+))")
 
 
 def join_aux(text, log):
-    def repl(m):
+    out, pos = [], 0
+    for m in RE_AUX_PAIR.finditer(text):
         a, b = m.group(1), m.group(2)
-        if a in AUX_BLOCK_PREV or not ends_with_a_eo(a) or len(a) < 2:
-            return m.group(0)
-        if any(b.startswith(x.strip()) for x in AUX_BLOCK_NEXT):
-            return m.group(0)
-        if not b.startswith(AUX_PREFIX):
-            return m.group(0)
+        if a in AUX_BLOCK_PREV or len(a) < 2 or not ends_with_a_eo(a):
+            continue
+        if any(b.startswith(x.strip()) for x in AUX_BLOCK_NEXT) or not b.startswith(AUX_PREFIX):
+            continue
+        out.append(text[pos:m.end(1)])
+        pos = m.end(1) + 1  # 공백 하나 건너뜀
         log["규칙4 보조용언"].append(f"{a} {b} → {a}{b}")
-        return a + b
-    # 겹치는 매치를 위해 두 번 돌린다
-    for _ in range(2):
-        text = RE_AUX.sub(repl, text)
-    return text
+    out.append(text[pos:])
+    return "".join(out)
 
 
 def convert(text):
