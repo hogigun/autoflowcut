@@ -74,6 +74,6 @@ AutoFlowCut 스토리 엔진(W1~W3)의 뼈대를 따르되, 장편·반복 회�
 - `references/openings.md` — 오프닝 6종
 - `references/structures.md` — 작법 6종과 36챕터 배분
 - `references/rotation.md` — 조합 규칙과 채널 고유성 장치
-- `references/style.md` — 문체·금지어·장편 호흡
+- `references/style.md` — 문체·금지어·장편 호흡·시니어 모드
 - `references/review.md` — 검토 체크리스트
 - `references/topic-finding.md` — 소재 찾기
