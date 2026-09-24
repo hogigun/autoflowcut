@@ -1,0 +1,225 @@
+1|courtyard_feast|D,S|dialogue|Dallae kneeling with straw rope half-wrapped on her wrists, looking up and speaking to Lord Shim on the wooden hall, guests frozen
+2|courtyard_feast|D|reaction|close-up of Dallae's calm determined face, constables on both sides, morning light
+3|courtyard_feast|S|scene|Lord Shim in indigo robe on the hall, hand on his robe's collar, puzzled and tense
+4|chimbang_night|D|narration|a single oil lamp glowing in a small sewing room before dawn, seen from outside through paper door
+5|bukchon_night|X|scene|wide view of a large tiled-roof noble mansion in Hanyang before dawn, only one window lit
+6|chimbang_night|D|scene|Dallae kneeling under an oil lamp, sewing quietly
+7|chimbang_night|D|scene|close-up of an indigo robe spread on her knees, a thin needle moving up and down
+8|chimbang_night|D|scene|close-up of the robe's white inner lining lifted, needle stitching inside a hidden fold
+9|chimbang_night|D|scene|extreme close-up of red thread and blue thread stitches and a tiny knot, she bites off the thread
+10|chimbang_night|D|reaction|Dallae whispering to herself with a faint relieved expression, lamp light on her face
+11|gate_snow|D|narration|memory image: a young woman collapsed in snow before a large wooden gate
+12|chimbang_night|D|scene|Dallae silently sewing while household members pass by outside the door
+13|chimbang_night|D|scene|close-up of hidden red and blue stitches inside the robe lining, mysterious
+14|courtyard|X|narration|constables' red-tasseled hats and a coil of straw rope on a table, ominous
+15|chimbang_night|D|scene|Dallae stroking the folded robe, a rooster silhouette on the roof beyond paper window at dawn
+16|chimbang_night|D|scene|close-up of her trembling fingers tying a wrapping cloth bundle around the robe
+17|chimbang_night|D|narration|the wrapped cloth bundle on the floor beside a flickering lamp, question in the air
+18|sarangbang_cozy|X|narration|warm storyteller's room with a crackling clay stove and firewood, inviting
+19|sarangbang_cozy|X|narration|an old storybook opening on a low table beside a lamp
+20|hanyang_view|X|narration|panorama of 18th-century Hanyang with tiled roofs and mountains, early morning
+21|bukchon_street|X|scene|narrow Bukchon alley lined with tiled walls leading to a grand gate
+22|sarangchae|S|scene|Lord Shim at his desk quickly calculating on an abacus, sharp eyes, ledgers stacked
+23|mansion_overview|X|scene|neat symmetrical layout of the noble mansion from above
+24|mansion_overview|X|scene|tall main gate opening to men's quarters, inner gate leading to women's quarters and kitchen
+25|storehouse|X|scene|sunlit jar terrace behind the house next to a thick earthen-walled storehouse
+26|storehouse|X|scene|close-up of a heavy iron lock on the storehouse door
+27|yangju_fields|K|scene|Kwak driving an ox cart loaded with rice sacks along autumn rice fields
+28|storehouse|N|scene|Steward No writing in a ledger while rice sacks are carried into the storehouse
+29|storehouse|X|scene|half-empty storehouse interior, fewer rice sacks than expected
+30|storehouse|S|dialogue|Lord Shim frowning at the storehouse door, muttering to himself
+31|storehouse|S|reaction|Lord Shim stroking his white beard in front of the storehouse, puzzled
+32|sarangchae_night|S,J|scene|Lord Shim holding little Juni on his lap, a memorial tablet in the background
+33|sarangchae_night|S,J|scene|Lord Shim sitting awake at night with sleeping Juni in his arms, lamp light
+34|gate_snow|X|scene|first snow falling on the mansion gate at dawn, the gatekeeper opening the bar and shouting
+35|gate_snow|D|scene|a young woman collapsed on a snow pile, blue lips, worn-out straw shoes
+36|kitchen|D|scene|servants carrying the woman to the kitchen fire, feeding her hot scorched-rice water
+37|kitchen|D|scene|the woman pointing at her mouth and shaking her head slowly, servants around her
+38|kitchen|D|scene|a small cotton handkerchief falling from her bosom onto the kitchen floor
+39|kitchen|D|scene|close-up of an old handkerchief with two Korean letters embroidered in fine thread
+40|kitchen|D|narration|servants calling the quiet woman by her new name, curious faces
+41|kitchen|D|scene|a kitchen woman massaging the stranger's hands, noticing thick calluses on fingertips
+42|kitchen|D,W|scene|the lady of the house entering the kitchen in the evening, looking down at the woman
+43|kitchen|D,W|scene|Dallae bowing deeply with forehead to the kitchen floor, graceful and proper
+44|kitchen|D,W|dialogue|the lady of the house speaking kindly, snow falling outside the kitchen door
+45|servant_room|D|scene|Dallae lying down in a small corner room of the servants' quarters, winter night
+46|chimbang|D,W|scene|the lady handing a sewing task to Dallae in the sewing room
+47|chimbang|M|scene|stout Sundeok-eomeom standing with arms crossed in the sewing room, owner of the place
+48|chimbang|M,D|reaction|Sundeok-eomeom glaring sideways at the new young woman
+49|chimbang|M,D|dialogue|Sundeok-eomeom tossing a pile of worn-out socks in front of Dallae
+50|chimbang|D|scene|Dallae quietly mending socks until sunset, head bowed
+51|chimbang|W|scene|the lady turning a mended sock inside out, eyes widening
+52|chimbang|X|scene|close-up of an invisible slip stitch hiding the thread inside the fabric
+53|chimbang_dawn|D|scene|Dallae adding charcoal to a brazier before dawn, burying an iron in the ashes
+54|chimbang_dawn|D|scene|steam rising as the hot iron presses damp fabric
+55|courtyard|D,M|scene|Dallae and Sundeok-eomeom facing each other beating cloth on a fulling stone with wooden clubs
+56|courtyard|D,M|scene|the two women beating cloth in rhythm without a word, the lady admiring nearby
+57|chimbang|D,M|scene|beautiful silk fabrics passed into Dallae's hands while Sundeok-eomeom watches jealously
+58|chimbang|X|scene|an empty shelf where a bolt of silk used to be, spring light
+59|chimbang|M,D|scene|commotion in the sewing room, Sundeok-eomeom pointing at Dallae
+60|chimbang|M,D|dialogue|Sundeok-eomeom accusing loudly, all eyes turning to Dallae
+61|chimbang|D|reaction|Dallae kneeling and shaking her head, close-up of her hands clutching her skirt
+62|chimbang|S,N|dialogue|Lord Shim arriving and ordering Steward No to check the ledger
+63|chimbang|N|scene|Steward No opening a thick ledger, finger on a line
+64|chimbang|X,S|scene|the gatekeeper timidly handing a paper note to Lord Shim
+65|chimbang|X|scene|close-up of a merchant's delivery note from a fabric shop
+66|chimbang|N|dialogue|Steward No touching his forehead and bowing apologetically with a gentle smile
+67|chimbang|S|scene|Lord Shim laughing it off as servants disperse
+68|chimbang|D,N|scene|Dallae alone watching Steward No walk away with a thick ledger under his arm
+69|chimbang|D|reaction|close-up of Dallae's thoughtful eyes
+70|chimbang_night|D|scene|Dallae untying a small cloth bundle in her corner at night
+71|chimbang_night|D|scene|Dallae unfolding a yellowed letter under a lowered lamp
+72|chimbang_night|D|scene|close-up of elegant brush calligraphy with water stains, her finger tracing the letters
+73|chimbang_night|D|reaction|Dallae whispering softly, lips barely moving
+74|chimbang_night|D|scene|Dallae covering her mouth in surprise, glancing at the door
+75|chimbang_night|X|scene|contents of the bundle laid out on the floor
+76|chimbang_night|X|scene|close-up of a worn silver thimble, a needle case, and a small ink-stained brush
+77|chimbang_night|D|scene|Dallae touching the brush then pushing it deep under other items
+78|chimbang_night|D|narration|Dallae sitting silently in the dark, lips closed, lamp dimming
+79|chimbang_night|D|narration|silhouette of Dallae by the paper window, mysterious
+80|chimbang|J|scene|little Juni peeking into the sewing room from the doorway
+81|chimbang|J,D|scene|Juni sneaking in toward a sewing basket full of colorful threads
+82|chimbang|J,D|scene|Juni holding up threads, Dallae pointing at the sky and grass outside
+83|chimbang|J,D|scene|Juni laughing, lying with his head on Dallae's lap
+84|chimbang|J,D|dialogue|Juni looking up asking, Dallae's needle pausing, she nods twice
+85|chimbang|J,D|scene|Juni squeezing Dallae's finger with a small smile
+86|chimbang|J,D|scene|Juni offering half a dried persimmon to Dallae
+87|chimbang|J,D|scene|a smooth pebble placed on Dallae's palm, small treasures lined up in her basket
+88|chimbang|J|reaction|Juni proudly wiping his nose, grinning at his gifts in the basket
+89|chimbang_sunset|J,D|scene|sunset light through the window overlapping the two shadows into one
+90|chimbang|D,W|scene|summer, the lady handing indigo silk for a new robe to Dallae
+91|sarangchae|S|scene|Lord Shim turning over the sleeve of a new robe
+92|sarangchae|S|dialogue|close-up of perfectly even stitches like brush strokes, Lord Shim impressed
+93|sarangchae|S,D|dialogue|Lord Shim looking down at Dallae who bows her head silently
+94|sarangchae|N,S|dialogue|Steward No smiling and speaking beside Lord Shim
+95|sarangchae|S|reaction|Lord Shim's face suddenly hardening
+96|sarangchae|S,D|scene|Lord Shim turning away into his room, Dallae's shoulders flinching slightly
+97|sarangchae|D|narration|Dallae standing alone on the wooden floor, head bowed
+98|mansion_overview|X|narration|seasons passing over the mansion, leaves falling, snow, blossoms
+99|chimbang|D|narration|Dallae sewing a nobleman's robe confidently, now the head seamstress
+100|courtyard_harvest|K|scene|an ox cart piled high with rice sacks entering the main gate in autumn
+101|courtyard_harvest|K|scene|Kwak, sunburnt with thick eyebrows, standing by the cart
+102|courtyard_harvest|K|dialogue|Kwak shouting at porters unloading rice sacks
+103|courtyard_harvest|M,D|scene|Sundeok-eomeom whispering to Dallae, rice sacks piling up like a mountain
+104|courtyard_harvest|X|scene|porters carrying sacks on shoulders into the storehouse, rice dust in sunlight
+105|courtyard_harvest|X|scene|close-up of a wooden measure filled with rice and leveled with a stick
+106|courtyard_harvest|D|scene|Dallae carrying a laundry basket, slowing down in front of the storehouse
+107|courtyard_harvest|D|reaction|Dallae silently counting with moving lips
+108|courtyard_harvest|M,D|dialogue|Sundeok-eomeom gossiping with a sneer
+109|courtyard_harvest|K|scene|Kwak pulling a worn notebook from his coat
+110|sarangchae|N|scene|Steward No sitting on the wooden floor copying numbers from the notebook into a big ledger
+111|sarangchae|N|scene|close-up of the brush moving, Steward No glancing at the sky
+112|sarangchae|S,N|scene|Lord Shim nodding with trust beside Steward No
+113|juni_room_night|J|scene|early winter, little Juni lying in bed with a high fever
+114|juni_room_night|S|scene|a medicine pot boiling, Lord Shim pacing anxiously
+115|juni_room_night|D,J|scene|Dallae sitting by Juni's bed at night
+116|juni_room_night|D,J|scene|Dallae wringing a wet cloth and placing it on Juni's forehead, mugwort steam
+117|juni_room_night|J,D|scene|Juni crying in delirium, Dallae's hands stopping
+118|juni_room_night|D,J|scene|Dallae glancing at the door, then gently patting Juni's chest
+119|juni_room_night|D,J|scene|Dallae singing a lullaby very softly, moonlight through the window
+120|juni_room_night|D,J|scene|Dallae singing tenderly, Juni's breathing calming
+121|juni_room_dawn|J,D|scene|dawn light, Juni slowly opening his eyes
+122|juni_room_dawn|J|reaction|Juni staring up at Dallae, wondering if it was a dream
+123|juni_room_dawn|D,J|scene|Dallae placing a fresh cloth on his forehead as if nothing happened
+124|juni_room_dawn|S,J|scene|Lord Shim touching Juni's forehead and sighing with relief
+125|juni_room_dawn|S,D|scene|Lord Shim looking at Dallae kneeling in the corner, her hands red and chapped
+126|juni_room_dawn|S,D|dialogue|Lord Shim asking briefly, Dallae only bowing
+127|kitchen|X|scene|a bowl of warm soup set aside on a tray in the kitchen
+128|chimbang|J,D|scene|Juni running into the sewing room and closing the door behind him
+129|chimbang|J,D|dialogue|Juni whispering close to Dallae, her needle pricking her finger
+130|chimbang|D|scene|close-up of a drop of red blood spreading on white cotton
+131|chimbang|D,J|scene|Dallae holding Juni's hands and putting a finger to her lips
+132|chimbang|J|reaction|Juni's eyes growing round, nodding eagerly
+133|chimbang|J,D|scene|Juni holding out his little finger
+134|chimbang|J|dialogue|Juni making a promise with a serious face
+135|chimbang|D,J|scene|little fingers hooked together, Dallae whispering in his ear
+136|chimbang|D,J|scene|Dallae and Juni sharing a secret smile
+137|sarangchae|D|scene|Dallae carrying an ironed robe into the empty men's quarters
+138|sarangchae|D|scene|Dallae noticing an open ledger on the desk
+139|sarangchae|X|scene|quiet scholar's room with faint ink fragrance
+140|sarangchae|X|scene|close-up of an inkstone and water dropper on a cabinet, pipe on the desk
+141|sarangchae|D|reaction|Dallae pausing, remembering her father's study
+142|sarangchae|D|scene|close-up of the ledger with rice numbers, Dallae holding her breath
+143|flashback_harvest|D|narration|memory of rice sacks piled in front of the storehouse, Dallae counting
+144|sarangchae|D|reaction|Dallae's eyes widening at the discrepancy, footsteps outside
+145|sarangchae|D|scene|Dallae slipping out and closing the door with trembling hands
+146|courtyard|X|scene|a figure crossing the courtyard glancing toward the men's quarters, Dallae vanishing behind a wall
+147|sarangchae|X|narration|the ledger alone on the desk, ominous
+148|servant_room_night|D|scene|Dallae awake in bed at midnight, a creaking sound
+149|back_gate_night|X|scene|a back gate half open under moonlight
+150|back_gate_night|X|scene|an ox cart loaded with heavy sacks disappearing down a dark alley
+151|storehouse_night|D|scene|Dallae hurrying toward the storehouse, a large shadow appearing from the corner
+152|storehouse_night|K|scene|Kwak revealed in moonlight at the storehouse corner
+153|storehouse_night|K,D|dialogue|Kwak glaring and scolding Dallae
+154|storehouse_night|K,D|scene|a rice sack on Kwak's shoulder, Dallae stepping back
+155|servant_room_night|D|scene|Dallae back in her room, pulling the blanket over her head
+156|servant_room_night|X|scene|paper window trembling in the wind at night
+157|bukchon_night|X|scene|night patrol walking the alley with wooden clappers, a dog in the distance
+158|servant_room_night|D|scene|Dallae lying with eyes closed, counting in her mind
+159|servant_room_night|D|narration|montage of the ledger, the night cart, and Kwak with a rice sack
+160|chimbang|D|scene|morning, Dallae hesitating with needlework in her hands
+161|chimbang|D|narration|Dallae imagining being questioned by the household
+162|chimbang|D|reaction|Dallae's troubled face, holding a secret
+163|chimbang|D|scene|Dallae looking at a brush and paper, then turning away
+164|chimbang|D|scene|Dallae sewing a luxurious indigo silk robe
+165|chimbang|D|scene|indigo silk outer layer and white ramie lining spread out, sewing basket nearby
+166|chimbang|D|scene|Dallae choosing a skein of red thread and a skein of blue thread
+167|chimbang|X|scene|close-up of a big knot, small stitches, and a tiny butterfly knot on white lining
+168|chimbang|D|scene|Dallae hiding stitches inside the robe lining with slip stitches
+169|chimbang_night|D|scene|Dallae lowering the lamp wick, struggling to thread a needle
+170|chimbang_night|D|scene|Dallae carefully making the first stitch inside the lining
+171|chimbang_night|X|scene|extreme close-up of thread passing through ramie fabric
+172|chimbang_night|D|scene|Dallae stitching and listening to the door alternately
+173|chimbang_dawn|D|scene|rooster crowing at dawn, Dallae still sewing
+174|chimbang|X|narration|the folded robe glowing softly, hidden secret inside
+175|chimbang|D|narration|Dallae sewing by the lamp, red and blue threads beside her
+176|chimbang|M|scene|Sundeok-eomeom watching Dallae suspiciously from behind a door
+177|chimbang|M|reaction|Sundeok-eomeom biting her lip jealously
+178|chimbang|M|scene|Sundeok-eomeom rummaging through Dallae's sewing basket while she is at the well
+179|chimbang|X|scene|close-up of spools of red and blue thread and knotted strings in the basket
+180|chimbang|M|dialogue|Sundeok-eomeom frowning at the knots, puzzled
+181|courtyard_night|M|scene|Sundeok-eomeom walking at night, stopping suddenly
+182|courtyard_night|X|scene|a slightly bent figure walking slowly out of the dark sewing room, face hidden by clouds over the moon
+183|courtyard_night|M|reaction|Sundeok-eomeom tilting her head, then turning away
+184|courtyard_night|M|scene|Sundeok-eomeom walking back hesitantly, hand on her chest
+185|courtyard_night|X|narration|clouds covering the moon over the silent courtyard
+186|storehouse|X|scene|late winter morning, a broken iron lock on the storehouse door
+187|storehouse|S,N,D|scene|household gathered, Steward No stopping in front of Dallae
+188|storehouse|N,D|dialogue|Steward No pointing at Dallae's straw shoes with rice bran on the toes
+189|storehouse|M|scene|servants murmuring, Sundeok-eomeom clapping her hands
+190|storehouse|M,D|dialogue|Sundeok-eomeom accusing, Dallae turning pale
+191|storehouse|S,D|reaction|Lord Shim's gaze resting on Dallae
+192|storehouse|S,N,J|dialogue|Lord Shim asking, Juni tugging at his sleeve
+193|storehouse|J,S|dialogue|Juni looking up and speaking earnestly to his grandfather
+194|storehouse|S|reaction|Lord Shim pausing, remembering
+195|storehouse|S|dialogue|Lord Shim dismissing everyone with a stern voice
+196|storehouse|S,D|reaction|Lord Shim looking long at Dallae as servants disperse
+197|chimbang|D|scene|evening, Dallae brushing rice bran off her straw shoes
+198|chimbang|D|reaction|Dallae deep in thought
+199|storehouse|X|scene|close-up of a large footprint on the dirt near the broken lock
+200|storehouse|D|narration|Dallae imagining Kwak's broad shoulders
+201|servant_room|D,N|scene|Dallae sick in bed, Steward No entering with a medicine packet
+202|servant_room|N,D|dialogue|Steward No placing medicine by her pillow with a warm smile
+203|servant_room|N,D|dialogue|Steward No gently stopping her from getting up
+204|servant_room|N|dialogue|Steward No speaking kindly, sympathetic face
+205|servant_room|N|scene|Steward No patching a drafty paper window with care
+206|servant_room|M|dialogue|Sundeok-eomeom praising Steward No as he leaves
+207|servant_room|D|scene|Dallae holding the medicine packet for a long time
+208|servant_room|D|scene|Dallae setting the medicine packet far from her pillow
+209|servant_room|D|scene|Dallae looking at the neatly patched paper window
+210|servant_room|D|reaction|Dallae's uneasy expression
+211|flashback_harvest|N|narration|memory of Steward No looking at the sky while copying numbers
+212|sarangchae_night|S,N|dialogue|late night, Steward No and Lord Shim talking in lamp light
+213|sarangchae_night|N|dialogue|Steward No lowering his voice
+214|sarangchae_night|N|dialogue|Steward No speaking with a worried face
+215|sarangchae_night|S|reaction|Lord Shim silent with a long pipe in his mouth
+216|sarangchae_night|S,N|dialogue|Lord Shim and Steward No exchanging words
+217|sarangchae_night|S,N|dialogue|Steward No bowing deeply, Lord Shim sighing
+218|sarangchae_night|N|scene|Steward No's long shadow cast on the wall by a flickering lamp
+219|sarangchae_night|S|scene|Lord Shim tapping his pipe, staring at it
+220|sarangchae_night|D|scene|outside the paper window, Dallae holding a bowl and freezing
+221|sarangchae_night|D|reaction|Dallae unable to move away
+222|sarangchae_night|D|narration|Dallae standing in the cold courtyard, something not adding up
+223|bukchon_street|D|scene|early spring, Dallae walking to the market on an errand
+224|market|X|scene|bustling early spring market full of people
+225|market|D|scene|taffy seller's scissors clacking, spring greens piled on stalls
