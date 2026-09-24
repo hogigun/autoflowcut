@@ -108,6 +108,7 @@ def main(folder):
         lines = open(f, encoding="utf-8").read().splitlines()
         body.append("\n".join(l for l in lines if not l.startswith("## ")).strip())
     src = re.sub(r"\n{3,}", "\n\n", "\n\n".join(body)) + "\n"
+    open(os.path.join(folder, "원고_전체_낭독용.txt"), "w", encoding="utf-8").write(src)
     out, log = convert(src)
     open(os.path.join(folder, "원고_TTS용.txt"), "w", encoding="utf-8").write(out)
     rep = ["# 04. TTS 변환 목록", "", "편집용 원고는 그대로 두고 `원고_TTS용.txt`에만 적용한 변경입니다. 어색한 줄이 있으면 `tools/tts_prep.py`의 예외 목록에 넣으세요.", ""]
